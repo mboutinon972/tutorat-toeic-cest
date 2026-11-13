@@ -1,0 +1,111 @@
+EX Vocabulaire du bureau | Choisissez le mot qui convient pour compléter la phrase.
+Q I send an ------- to my manager every morning. | table | email | window | bag | B | Un email s'envoie à quelqu'un (to send an email).
+Q Please open the ------- . It is hot in the room. | printer | meeting | window | price | C | On ouvre une fenêtre (window) quand il fait chaud.
+Q The ------- is on the wall. It shows the time. | invoice | coffee | phone | clock | D | Clock = horloge, elle montre l'heure.
+Q We have a ------- at 9 a.m. in the conference room. | pencil | meeting | holiday | desk | B | Meeting = réunion, elle a lieu dans une salle de conférence.
+Q I need paper for the ------- . | tea | chair | printer | sofa | C | Une imprimante (printer) utilise du papier.
+Q Ms. Green is my ------- . She is the head of the team. | customer | manager | driver | doctor | B | Manager = responsable d'équipe.
+Q Please ------- the door. It is cold. | cook | write | close | drive | C | Close = fermer. On ferme la porte s'il fait froid.
+Q The ------- pays for the products in the shop. | desk | pen | file | customer | D | Customer = client, il paie les produits.
+EX Être et le présent simple | Choisissez la forme correcte du verbe.
+Q She ------- a teacher. | is | am | are | be | A | She + is (be à la 3e personne).
+Q We ------- in an office in Paris. | works | working | work | is work | C | We + verbe sans -s : we work.
+Q He ------- coffee at 8 a.m. | drink | drinking | to drink | drinks | D | He/she/it + verbe avec -s : he drinks.
+Q ------- you ready for the meeting? | Is | Am | Are | Do | C | You + are : are you ready ?
+Q They ------- not work on Sunday. | does | do | are | is | B | Négation avec they : do not work.
+Q My boss ------- a new car. | has | have | haves | is | A | Have devient has à la 3e personne.
+Q I ------- English every day. | studies | studying | study | am study | C | I + verbe sans -s : I study.
+Q ------- Mr. Kim speak French? | Do | Is | Are | Does | D | Question avec Mr. Kim (he) : Does ... speak ?
+EX Prépositions in, on, at | Choisissez la préposition correcte.
+Q The meeting is ------- Monday. | in | on | at | to | B | On + jour de la semaine.
+Q We start ------- 9 o'clock. | on | in | at | of | C | At + heure précise.
+Q My office is ------- the second floor. | in | at | on | of | C | On + étage (on the second floor).
+Q She lives ------- Lyon. | on | at | to | in | D | In + ville.
+Q The report is ------- the table. | on | at | of | from | A | On the table = sur la table.
+Q I work ------- 8 a.m. to 5 p.m. | in | from | at | on | B | From ... to ... = de ... à ...
+Q Lunch is ------- noon. | in | on | of | at | D | At noon = à midi.
+Q We have a holiday ------- August. | on | at | in | by | C | In + mois.
+EX Heures, nombres et dates | Choisissez la bonne réponse.
+Q 15:30 is ------- . | a quarter to four | three o'clock | half past three | half past five | C | 15:30 = trois heures et demie.
+Q $14.50 is fourteen dollars and ------- cents. | fifteen | fifty | forty | five | B | 50 se dit fifty.
+Q The number 13 is ------- . | thirty | fifty | three | thirteen | D | 13 = thirteen, 30 = thirty.
+Q The second of May is written ------- . | 2 May | 12 May | May 5th | 22 May | A | Second = 2e jour du mois.
+Q Monday, Tuesday, ------- , Thursday. | Sunday | Friday | Saturday | Wednesday | D | L'ordre des jours : mercredi (Wednesday) est entre mardi et jeudi.
+Q 9:45 is a quarter ------- ten. | past | at | in | to | D | A quarter to ten = dix heures moins le quart.
+Q The number 40 is ------- . | forty | fourteen | four | fourth | A | 40 = forty, 14 = fourteen.
+Q The first month of the year is ------- . | March | December | January | July | C | January = janvier.
+EX Mots interrogatifs | Choisissez le mot interrogatif qui correspond à la réponse.
+Q ------- is the meeting room? – It is on the third floor. | Where | When | Who | How much | A | La réponse donne un lieu : where.
+Q ------- is the new manager? – Mr. Lopez. | Where | Who | When | Why | B | La réponse donne une personne : who.
+Q ------- is the ticket? – It is $20. | How long | How many | How much | How old | C | Le prix : how much.
+Q ------- do you leave? – At six. | Who | Where | When | How | C | L'heure : when (ou what time).
+Q ------- is late? – Anna. | Who | Where | When | How | A | Une personne : who.
+Q ------- do you go to work? – By bus. | Why | How | When | Who | B | Le moyen de transport : how.
+Q ------- are you happy? – Because I have a new job. | Who | How | Why | Where | C | Because répond à why.
+Q ------- computers are in the room? – Ten. | How many | How much | How long | How often | A | Un nombre d'objets comptables : how many.
+TEXT Email : réunion de vendredi
+From: Anna Lopez
+To: Tom Baker
+Subject: Meeting on Friday
+Hi Tom, the team meeting is on Friday at 10 a.m. in Room 4. Please bring your laptop. We talk about the new website. Lunch is at 12:30 in the café. Thanks, Anna
+Q What is the email about? | A meeting | A holiday | A new job | A lunch menu | A | Le sujet : une réunion (meeting) vendredi.
+Q When is the meeting? | Monday at 10 a.m. | Friday at 10 a.m. | Friday at 12:30 | Thursday at 10 a.m. | B | Friday at 10 a.m.
+Q What must Tom bring? | His lunch | A phone | A laptop | A new website | C | Please bring your laptop.
+Q Where is lunch? | In Room 4 | In the café | At the hotel | At Tom's home | B | Lunch is at 12:30 in the café.
+TEXT Avis : bureau fermé
+NOTICE. The office is closed on Monday, May 1 (public holiday). We open again on Tuesday at 8:30 a.m. For urgent problems, call Mr. Dean at 555-0142. The elevator does not work on Tuesday morning.
+Q Why is the office closed on May 1? | Bad weather | A public holiday | A meeting | A repair | B | Public holiday = jour férié.
+Q When does the office open again? | Monday at 8:30 a.m. | Tuesday at 9:30 a.m. | Tuesday at 8:30 a.m. | Wednesday at 8:30 a.m. | C | We open again on Tuesday at 8:30 a.m.
+Q Who should people call for an urgent problem? | Ms. Lopez | The post office | Mr. Dean | Mr. Baker | C | Call Mr. Dean.
+Q What does not work on Tuesday morning? | The door | The elevator | The phone | The printer | B | The elevator does not work.
+TEXT Offre d'emploi
+Café Bella needs a waiter. Work: Tuesday to Saturday, 4 p.m. to 10 p.m. Pay: $12 an hour. You must speak English and like people. No experience needed. Send your CV to jobs@cafebella.example
+Q What job is it? | Cook | Waiter | Driver | Manager | B | The café needs a waiter (serveur).
+Q Which days does the person work? | Monday to Friday | Saturday and Sunday | Tuesday to Saturday | Every day | C | Tuesday to Saturday.
+Q How much is the pay? | $12 an hour | $10 an hour | $20 an hour | $12 a day | A | Pay: $12 an hour.
+Q What does the person need? | Experience | A car | A degree | English | D | You must speak English. No experience needed.
+AUDIO Préparer la réunion de lundi | S1=af_heart,S2=am_adam | 0.75
+S1: Hello, Mark. Do you have a minute?
+S2: Yes, Sara. What can I do for you?
+S1: I need a meeting room for Monday. Can I book Room 3?
+S2: Let me look. Monday morning, Room 3 is not free. It is free in the afternoon, at two o'clock.
+S1: Two o'clock is fine. We are six people, not five. Is Room 3 big?
+S2: Yes, it is big. It has ten chairs and one large table. There is also a projector.
+S1: Great. I also need coffee and tea for the team.
+S2: No problem. I call the café on the first floor. How many cups do you want?
+S1: Six coffees and two teas, please. And some water.
+S2: OK. The meeting is from two to four, right?
+S1: Yes, from two to four. Then we have a short break at three.
+S2: Good. Who comes to the meeting?
+S1: Anna and Tom from sales, two people from marketing, and my manager, Mr. Brown.
+S2: Is Mr. Brown free on Monday? I think he is in London on Monday.
+S1: Oh, you are right. He comes back on Tuesday. So, can we have the meeting on Tuesday?
+S2: Tuesday at two o'clock, Room 3 is free. I put your name in the book.
+S1: Perfect. Thank you very much, Mark. Please send me an email with the room number.
+S2: Of course. I send it this afternoon. See you on Tuesday!
+Q What does Sara need? | A new laptop | A meeting room | A day off | A coffee machine | B | Can I book Room 3 ? Elle veut réserver une salle de réunion.
+Q Why can't Sara have Room 3 on Monday morning? | The room is too small | The projector is broken | Mark is away | The room is not free | D | Room 3 is not free on Monday morning : elle est occupée.
+Q How many people are in Sara's team? | Six | Five | Ten | Two | A | We are six people, not five : six personnes.
+Q What is in Room 3? | Two computers and a phone | A kitchen and a sofa | A table, ten chairs and a projector | Only a large table | C | Ten chairs, one large table et un projecteur.
+Q Where is the café? | On the second floor | Next to Room 3 | Near the station | On the first floor | D | The café on the first floor : au premier étage.
+Q When is the break? | At three | At two | At four | At five | A | The meeting is from two to four, break at three : pause à 15 h.
+Q Why does the meeting change to Tuesday? | Room 3 is broken | Anna is ill | Mr. Brown is in London on Monday | Mark is on holiday | C | Mr. Brown est à Londres lundi et revient mardi.
+Q What does Mark do this afternoon? | He calls Mr. Brown | He sends an email with the room number | He buys the coffee | He books a hotel | B | I send it this afternoon : il envoie un email avec le numéro de salle.
+AUDIO Annonce dans un magasin | N=bf_emma | 0.75
+N: Good morning, everyone, and welcome to Green Market. Please listen to today's special offers.
+N: First, fruit and vegetables. Apples are two dollars a kilo. Bananas are one dollar fifty a kilo. Tomatoes are three dollars a kilo, but only until noon.
+N: Now, the bakery. Bread is half price until twelve o'clock. A big chocolate cake is ten dollars. Please come to the bakery. It is next to the door.
+N: In the drinks section, orange juice is two dollars a bottle. Buy three bottles and you get one free. Coffee and tea are on the second shelf.
+N: Customers with children, please note: there is a play room on the first floor. It is open from ten until five. It is free.
+N: The store opens at eight o'clock and closes at nine o'clock every day, except Sunday. On Sunday we close at six.
+N: You can pay by card or in cash. Please pay at the desk near the door. If you have a question, ask a person in a green shirt. They are happy to help you.
+N: Today is Friday. Tomorrow, Saturday, a famous chef is in our store at three o'clock. He makes a pizza with tomatoes from our shop. Everyone can taste it!
+N: Thank you for shopping at Green Market, and have a nice day.
+Q Where is the announcement? | In a school | At a hospital | In a store | At an airport | C | Welcome to Green Market, pay at the desk : c'est un magasin.
+Q How much are apples? | Two dollars a kilo | One dollar fifty a kilo | Three dollars a kilo | Ten dollars a kilo | A | Apples are two dollars a kilo.
+Q Until when are tomatoes three dollars a kilo? | Until five o'clock | Until eight o'clock | All day | Until noon | D | Tomatoes are three dollars, but only until noon.
+Q Where is the bakery? | On the first floor | Next to the door | Near the drinks | Behind the desk | B | The bakery is next to the door.
+Q What happens if you buy three bottles of orange juice? | You get one free | You pay half price | You get a cake | You get coffee | A | Buy three bottles and you get one free.
+Q What is on the first floor for children? | A café | A bakery | A play room | A school | C | There is a play room on the first floor, free de 10 h à 17 h.
+Q When does the store close on Sunday? | At eight | At six | At nine | At five | B | On Sunday we close at six.
+Q What happens tomorrow at three o'clock? | The store is closed | There is free coffee | There is a party for children | A famous chef makes a pizza | D | Tomorrow, Saturday, a famous chef is in our store at three o'clock.

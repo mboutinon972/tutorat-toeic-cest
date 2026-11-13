@@ -1,0 +1,43 @@
+AUDIO Préparer une conférence | S1=bf_emma,S2=bm_george | 1.0
+S1: Henry, thanks for coming. I want to go through the plan for the annual conference before I send it to the director.
+S2: Sure. We have about two hundred registrations now, which is more than last year. I'm a bit worried that the main hall only holds one hundred and eighty.
+S1: That's exactly why I wanted to talk. The Grand Hotel has a larger room, for two hundred and fifty people, but it costs four thousand euros a day, which is quite a lot more than our budget.
+S2: What is our budget for the venue?
+S1: Three thousand five hundred. But the hotel offered a ten percent discount if we confirm before the end of the month.
+S2: That brings it to three thousand six hundred, so we would still be a hundred euros over. Could we save money somewhere else?
+S1: Possibly on catering. At the moment we planned a hot lunch for everybody. If we choose sandwiches and salads instead, we would save about six hundred euros.
+S2: Some people may be disappointed, but I think most participants prefer a lighter lunch anyway. Can we keep the coffee breaks as they are?
+S1: Yes, I want to keep two breaks, one in the morning and one in the afternoon, because they are the best time for networking.
+S2: Agreed. What about the speakers? Has Dr. Patel confirmed?
+S1: Unfortunately not. She was invited to another event on the same date, and she hasn't replied yet. I'll call her office tomorrow. If she can't come, Mr. Okafor said he could replace her, and his topic is also interesting: how small companies use artificial intelligence.
+S2: Good. In that case we should check the title of his talk so the programme stays consistent. Another thing: several people have asked about translation. Our visitors from Italy and Spain would like some help.
+S1: That would cost a lot, so I suggest sending the slides in advance and having a volunteer at each table. Would you organise that?
+S2: Yes, I can ask the language department. Finally, when do we send the programme to the participants?
+S1: Two weeks before the conference, so by the fifth of March. The registration deadline is the twentieth of February.
+S2: Perfect. I'll prepare the draft programme and send it to you on Friday, and then you can show it to the director.
+S1: Thank you, Henry. That's very helpful.
+QQ What problem do Clara and Henry discuss at the start? | The main hall is too small for the number of registrations | The conference date is wrong | There are too few participants | The speakers are too expensive | Environ 200 inscrits, mais la salle ne contient que 180 personnes.
+QQ How much would the Grand Hotel cost after the discount? | Three thousand six hundred euros | Four thousand euros | Three thousand five hundred euros | Three thousand nine hundred euros | 4 000 € moins 10 % = 3 600 €, soit 100 € de plus que le budget.
+QQ What must they do to get the ten percent discount? | Confirm before the end of the month | Pay in cash | Book two days | Bring two hundred and fifty people | The hotel offered a ten percent discount if we confirm before the end of the month.
+QQ How could they save money on catering? | Serve sandwiches and salads instead of a hot lunch | Remove the coffee breaks | Have fewer participants | Ask people to bring their own food | Sandwiches and salads save about 600 euros.
+QQ Why does Clara want to keep two coffee breaks? | They are good for networking | The speakers need to rest | The hotel requires them | They are cheap | They are the best time for networking.
+QQ What is the situation with Dr. Patel? | She has not replied because of another event | She refused the invitation | She is ill | She confirmed her talk | She was invited to another event on the same date, and she hasn't replied yet.
+QQ How will they help the visitors from Italy and Spain? | Send the slides in advance and have volunteers at the tables | Hire professional interpreters | Add subtitles to the presentations | Translate the whole programme | Interprètes trop chers : slides à l'avance et un volontaire par table.
+QQ When will the programme be sent to participants? | By the fifth of March | On the twentieth of February | On Friday | Two days before the conference | Two weeks before the conference, so by the fifth of March.
+AUDIO Réunion du personnel | N=bm_lewis | 1.0
+N: Good morning, everyone. Thank you for coming. I'll try to keep this meeting short, but there are several important changes that I'd like to explain.
+N: Let me begin with the good news. Our sales rose by twelve percent in the last quarter, which is the best result in three years. I want to thank the customer service team in particular, because customer complaints went down by almost a third.
+N: Now, some changes in the way we work. From the first of April, the office will open at eight and close at six. Until now we opened at half past eight. The reason is simple: many of our European clients start work early, and we have missed too many calls in the morning.
+N: Second, remote working. Staff may now work from home on Wednesdays, as long as they inform their team leader by Monday evening. This is a trial that will last three months. If it works well, we'll consider a second day. However, anyone who has a meeting with a client must come to the office.
+N: Third, our new customer database. It will replace the old system on the fifteenth of April. Training sessions will take place in the main meeting room, in groups of ten, on the eighth and ninth of April. Please sign up on the list next to the coffee machine before the end of this week. Attendance is compulsory, because the old system will no longer be available after the fifteenth.
+N: Fourth, a safety reminder. We'll have a fire drill next Thursday morning, but we won't announce the exact time. When the alarm sounds, please leave the building calmly by the nearest exit and gather in the car park, not on the street.
+N: Finally, a few words about the annual company party. This year it will be held on the twenty-first of June at the lake restaurant, and for the first time, partners are invited. The company is paying for the food, but drinks after eight o'clock will be at your own expense.
+N: Does anybody have any questions? If not, please remember to complete your holiday requests by Friday. Human resources is already short of staff for the summer, and late requests cannot be accepted. Thank you for your attention, and have a productive week.
+QQ What good news does the speaker announce? | Sales rose by twelve percent | The office is moving | Everyone gets a bonus | Two new managers are joining | Sales rose by twelve percent, the best result in three years.
+QQ What does the speaker thank the customer service team for? | A drop in customer complaints | Working on Wednesdays | Training the new staff | Organising the party | Customer complaints went down by almost a third.
+QQ Why will the office open earlier? | To answer calls from European clients in the morning | Because staff asked for it | To save electricity | Because of a new law | Many European clients start work early, and too many morning calls were missed.
+QQ What must employees do to work from home on Wednesday? | Tell their team leader by Monday evening | Have a signed contract | Work for three months first | Ask the director | Inform their team leader by Monday evening.
+QQ When will the new database replace the old system? | On the fifteenth of April | On the first of April | On the eighth of April | On the twenty-first of June | It will replace the old system on the fifteenth of April.
+QQ Why is the training compulsory? | The old system will not be available after the fifteenth | The director asked for it | It is a legal rule | The training is very short | Attendance is compulsory, because the old system will no longer be available.
+QQ Where should staff gather during the fire drill? | In the car park | On the street | In the meeting room | At the lake | Gather in the car park, not on the street.
+QQ What will staff pay for at the company party? | Drinks after eight o'clock | The food | The restaurant | Their partners' invitations | Drinks after eight o'clock will be at your own expense.

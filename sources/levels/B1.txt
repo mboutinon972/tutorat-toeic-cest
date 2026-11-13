@@ -1,0 +1,115 @@
+EX Vocabulaire et collocations professionnelles | Choisissez le mot qui convient pour compléter la phrase.
+Q All employees must ------- their expense reports by the end of the month. | admit | submit | permit | commit | B | Submit a report = remettre un rapport.
+Q The customer ------- about the late delivery. | explained | complimented | acquired | complained | D | Complain about = se plaindre de.
+Q We are looking for a candidate with strong ------- in sales. | experience | experiment | expense | expectation | A | Experience in sales = expérience dans la vente.
+Q The manager asked the team to ------- the problem as soon as possible. | refuse | reduce | solve | recall | C | Solve a problem = résoudre un problème.
+Q Our company ------- a wide range of services. | opens | offers | orders | owes | B | Offer a range of services = proposer une gamme de services.
+Q Please ------- your seat belts during takeoff. | fix | fill | fold | fasten | D | Fasten a seat belt = attacher sa ceinture.
+Q The ------- will be held in the main conference room. | seminar | senator | sentence | sensor | A | Seminar = séminaire, il se tient dans une salle.
+Q Could you ------- me a favor and print these documents? | make | take | do | give | C | Do someone a favor = rendre service.
+EX Present perfect, prétérit et plus-que-parfait | Choisissez la forme verbale correcte.
+Q We ------- in this office since 2019. | work | worked | have worked | are working | C | Since + point de départ : present perfect.
+Q She ------- the company in 2021. | joined | has joined | joins | is joining | A | Date passée précise : prétérit.
+Q ------- you ever visited the Tokyo branch? | Did | Have | Do | Are | B | Ever + expérience de vie : present perfect.
+Q I ------- him last week, and he seemed fine. | have seen | saw | see | am seeing | B | Last week : prétérit.
+Q The project ------- for six months. It will end soon. | runs | ran | has been running | is run | C | Action commencée dans le passé et toujours en cours : present perfect continu.
+Q By the time we arrived, the meeting ------- . | already started | has already started | was already start | had already started | D | Action antérieure à un moment du passé : plus-que-parfait.
+Q Ms. Chen has ------- finished the report; it is ready. | yet | ever | already | since | C | Already s'emploie dans une phrase affirmative.
+Q We ------- dinner when the power went out. | had | have | are having | were having | D | Action en cours quand une autre survient : prétérit continu.
+EX Formes de mots (Partie 5) | Choisissez la forme correcte du mot pour compléter la phrase.
+Q The ------- of the new system will begin in May. | install | installing | installed | installation | D | Après the, un nom : installation.
+Q Please speak ------- so everyone can hear you. | clear | clearer | clearly | clearance | C | Un adverbe modifie le verbe speak.
+Q We were pleased with the ------- of our staff. | professionalism | professional | professionally | profession | A | Après the, un nom : professionalism.
+Q This is a very ------- decision for the company. | importance | important | importantly | import | B | Un adjectif précède le nom decision.
+Q Sales have increased ------- this year. | significant | significantly | significance | signify | B | Un adverbe modifie le verbe increase.
+Q The manager is ------- for training new employees. | responsibly | responsibility | responsible | respond | C | Be + adjectif : responsible for.
+Q Our ------- includes free Wi-Fi and breakfast. | accommodate | accommodating | accommodated | accommodation | D | Sujet de la phrase : un nom, accommodation.
+Q She was ------- to hear the good news. | delight | delightfully | delighted | delighting | C | Be + participe passé (état émotionnel) : delighted.
+EX Conditionnel, passif et pronoms relatifs | Choisissez la bonne réponse.
+Q If I ------- more time, I would help you. | have | had | will have | would have | B | Condition irréelle au présent : if + prétérit, would + verbe.
+Q The contract ------- by both parties yesterday. | signed | has sign | is signing | was signed | D | Le contrat est signé : passif au prétérit.
+Q The woman ------- called yesterday is our new client. | which | whose | who | where | C | Who pour une personne sujet.
+Q If the weather is bad, the event ------- postponed. | will be | would be | was | has | A | Condition réelle : if + présent, will + verbe.
+Q The report, ------- was finished last night, is on your desk. | who | which | whose | where | B | Which pour une chose.
+Q The new rules ------- next month. | introduce | are introduce | has introduced | will be introduced | D | Futur passif : will be + participe passé.
+Q If you ------- the instructions, you would not have made the mistake. | read | have read | had read | would read | C | Condition irréelle au passé : if + past perfect.
+Q This is the office ------- I worked last year. | where | which | who | whose | A | Where pour un lieu.
+EX Prépositions et connecteurs | Choisissez la bonne réponse.
+Q ------- the bad weather, the flight left on time. | Because of | Although | However | Despite | D | Despite + groupe nominal : malgré.
+Q ------- it was late, we finished the report. | Despite | Although | Because of | Therefore | B | Although + sujet + verbe : bien que.
+Q The meeting was postponed ------- the manager's illness. | despite | unless | due to | although | C | Due to + nom : en raison de.
+Q Please finish the work ------- Friday at the latest. | by | until | during | since | A | By + date limite : au plus tard.
+Q He has worked here ------- ten years. | since | during | from | for | D | For + durée.
+Q Please wait here ------- the doctor is ready. | unless | since | until | during | C | Until : jusqu'à ce que.
+Q ------- working hard, he did not get the promotion. | Despite | Because | However | Therefore | A | Despite + -ing : malgré.
+Q The product is good; ------- , it is too expensive. | because | however | despite | unless | B | However introduit une opposition entre deux phrases.
+TEXT Note de service : travaux
+To: All staff
+From: Daniel Moore, Facilities
+Subject: Office renovation
+As you may know, the fourth floor will be renovated from May 6 to May 24. During this period, the marketing and finance teams will work on the second floor, in the rooms normally used for training. Because space there is limited, staff will share desks, and a booking system will be set up next week. Employees who prefer to work from home may do so up to two days a week, with their manager's approval. The parking area behind the building will be closed on May 6 for equipment delivery, so please use the public car park on Elm Street that day. We apologize for any inconvenience and thank you for your patience.
+Q What is the purpose of the memo? | To announce a renovation | To introduce a new manager | To change the parking fees | To invite staff to a training | A | The fourth floor will be renovated : annonce de travaux.
+Q Where will the marketing team work during the renovation? | On the fourth floor | On the second floor | At home only | In the parking area | B | The marketing and finance teams will work on the second floor.
+Q What will staff have to do about desks? | Pay for them | Bring their own | Share them | Move them | C | Staff will share desks.
+Q What will happen on May 6? | The training will start | The booking system will start | The renovation will end | The parking area will be closed | D | The parking area will be closed on May 6.
+TEXT Article : une deuxième usine
+Greenway Foods to Open Second Factory
+Greenway Foods announced on Tuesday that it will open a second factory in Dayton, Ohio, by next spring. The company, which makes frozen vegetables, says the new site will create about 200 jobs. CEO Laura Peterson said demand has grown by 30 percent in two years, and the existing factory in Toledo can no longer keep up. Construction will begin in June, and the company plans to start hiring in January. Local officials welcomed the news. "This investment shows that our town is a good place to do business," said Mayor Jim Alvarez. Greenway also said it would introduce a training program with Dayton Community College to prepare workers for the new jobs.
+Q Why is Greenway Foods building a new factory? | To reduce its prices | Because the current factory cannot meet demand | To move its headquarters | Because its Toledo factory will close | B | The existing factory can no longer keep up with demand.
+Q When will hiring begin? | In June | Next spring | In January | Next Tuesday | C | The company plans to start hiring in January.
+Q What is true about the new factory? | It will be in Toledo | It will replace the old one | It will make a new product | It will create about 200 jobs | D | The new site will create about 200 jobs.
+Q What will Greenway do with Dayton Community College? | Offer a training program | Sell products | Share a factory | Hire teachers | A | A training program with the college.
+TEXT Courriels : problème de batterie
+From: Priya Nair
+To: Technical Support
+Subject: Laptop battery problem
+Hello, I bought a Zenbook laptop from your online store on January 12. After only two months, the battery lasts less than one hour, although it used to last about eight hours. I tried restarting the computer and updating the software, as suggested on your website, but nothing changed. As the laptop is still under warranty, I would like to have the battery replaced or receive a refund. I need the computer for my work, so a quick answer would be appreciated. Priya Nair
+From: Tomas Weber, Technical Support
+Dear Ms. Nair, thank you for contacting us. We are sorry about the problem. Since your laptop is under warranty, we will send you a prepaid shipping label by email today. Once we receive the laptop, we will test the battery and replace it free of charge within five working days. If we find that the damage was caused by misuse, however, a repair fee may apply.
+Q Why did Ms. Nair write? | To buy a laptop | To report a battery problem | To ask for a discount | To change her address | B | The battery lasts less than one hour.
+Q What did Ms. Nair do before writing? | Went to a store | Bought a new battery | Updated the software | Called the manufacturer | C | She restarted the computer and updated the software.
+Q What will Mr. Weber send? | A new laptop | A repair manual | A refund check | A shipping label | D | A prepaid shipping label by email.
+Q When might Ms. Nair have to pay? | If the damage is caused by misuse | If she returns the laptop late | If she wants a refund | If she lives abroad | A | If the damage was caused by misuse, a repair fee may apply.
+AUDIO Préparer une conférence | S1=bf_emma,S2=bm_george | 0.9
+S1: Henry, thanks for coming. I want to go through the plan for the annual conference before I send it to the director.
+S2: Sure. We have about two hundred registrations now, which is more than last year. I'm a bit worried that the main hall only holds one hundred and eighty.
+S1: That's exactly why I wanted to talk. The Grand Hotel has a larger room, for two hundred and fifty people, but it costs four thousand euros a day, which is quite a lot more than our budget.
+S2: What is our budget for the venue?
+S1: Three thousand five hundred. But the hotel offered a ten percent discount if we confirm before the end of the month.
+S2: That brings it to three thousand six hundred, so we would still be a hundred euros over. Could we save money somewhere else?
+S1: Possibly on catering. At the moment we planned a hot lunch for everybody. If we choose sandwiches and salads instead, we would save about six hundred euros.
+S2: Some people may be disappointed, but I think most participants prefer a lighter lunch anyway. Can we keep the coffee breaks as they are?
+S1: Yes, I want to keep two breaks, one in the morning and one in the afternoon, because they are the best time for networking.
+S2: Agreed. What about the speakers? Has Dr. Patel confirmed?
+S1: Unfortunately not. She was invited to another event on the same date, and she hasn't replied yet. I'll call her office tomorrow. If she can't come, Mr. Okafor said he could replace her, and his topic is also interesting: how small companies use artificial intelligence.
+S2: Good. In that case we should check the title of his talk so the programme stays consistent. Another thing: several people have asked about translation. Our visitors from Italy and Spain would like some help.
+S1: That would cost a lot, so I suggest sending the slides in advance and having a volunteer at each table. Would you organise that?
+S2: Yes, I can ask the language department. Finally, when do we send the programme to the participants?
+S1: Two weeks before the conference, so by the fifth of March. The registration deadline is the twentieth of February.
+S2: Perfect. I'll prepare the draft programme and send it to you on Friday, and then you can show it to the director.
+S1: Thank you, Henry. That's very helpful.
+Q What problem do Clara and Henry discuss at the start? | The conference date is wrong | The main hall is too small for the number of registrations | There are too few participants | The speakers are too expensive | B | Environ 200 inscrits, mais la salle ne contient que 180 personnes.
+Q How much would the Grand Hotel cost after the discount? | Four thousand euros | Three thousand five hundred euros | Three thousand nine hundred euros | Three thousand six hundred euros | D | 4 000 € moins 10 % = 3 600 €, soit 100 € de plus que le budget.
+Q What must they do to get the ten percent discount? | Confirm before the end of the month | Pay in cash | Book two days | Bring two hundred and fifty people | A | The hotel offered a ten percent discount if we confirm before the end of the month.
+Q How could they save money on catering? | Remove the coffee breaks | Have fewer participants | Serve sandwiches and salads instead of a hot lunch | Ask people to bring their own food | C | Sandwiches and salads save about 600 euros.
+Q Why does Clara want to keep two coffee breaks? | The speakers need to rest | The hotel requires them | They are cheap | They are good for networking | D | They are the best time for networking.
+Q What is the situation with Dr. Patel? | She has not replied because of another event | She refused the invitation | She is ill | She confirmed her talk | A | She was invited to another event on the same date, and she hasn't replied yet.
+Q How will they help the visitors from Italy and Spain? | Hire professional interpreters | Add subtitles to the presentations | Send the slides in advance and have volunteers at the tables | Translate the whole programme | C | Interprètes trop chers : slides à l'avance et un volontaire par table.
+Q When will the programme be sent to participants? | On the twentieth of February | By the fifth of March | On Friday | Two days before the conference | B | Two weeks before the conference, so by the fifth of March.
+AUDIO Réunion du personnel | N=bm_lewis | 0.9
+N: Good morning, everyone. Thank you for coming. I'll try to keep this meeting short, but there are several important changes that I'd like to explain.
+N: Let me begin with the good news. Our sales rose by twelve percent in the last quarter, which is the best result in three years. I want to thank the customer service team in particular, because customer complaints went down by almost a third.
+N: Now, some changes in the way we work. From the first of April, the office will open at eight and close at six. Until now we opened at half past eight. The reason is simple: many of our European clients start work early, and we have missed too many calls in the morning.
+N: Second, remote working. Staff may now work from home on Wednesdays, as long as they inform their team leader by Monday evening. This is a trial that will last three months. If it works well, we'll consider a second day. However, anyone who has a meeting with a client must come to the office.
+N: Third, our new customer database. It will replace the old system on the fifteenth of April. Training sessions will take place in the main meeting room, in groups of ten, on the eighth and ninth of April. Please sign up on the list next to the coffee machine before the end of this week. Attendance is compulsory, because the old system will no longer be available after the fifteenth.
+N: Fourth, a safety reminder. We'll have a fire drill next Thursday morning, but we won't announce the exact time. When the alarm sounds, please leave the building calmly by the nearest exit and gather in the car park, not on the street.
+N: Finally, a few words about the annual company party. This year it will be held on the twenty-first of June at the lake restaurant, and for the first time, partners are invited. The company is paying for the food, but drinks after eight o'clock will be at your own expense.
+N: Does anybody have any questions? If not, please remember to complete your holiday requests by Friday. Human resources is already short of staff for the summer, and late requests cannot be accepted. Thank you for your attention, and have a productive week.
+Q What good news does the speaker announce? | The office is moving | Everyone gets a bonus | Sales rose by twelve percent | Two new managers are joining | C | Sales rose by twelve percent, the best result in three years.
+Q What does the speaker thank the customer service team for? | A drop in customer complaints | Working on Wednesdays | Training the new staff | Organising the party | A | Customer complaints went down by almost a third.
+Q Why will the office open earlier? | Because staff asked for it | To save electricity | Because of a new law | To answer calls from European clients in the morning | D | Many European clients start work early, and too many morning calls were missed.
+Q What must employees do to work from home on Wednesday? | Have a signed contract | Tell their team leader by Monday evening | Work for three months first | Ask the director | B | Inform their team leader by Monday evening.
+Q When will the new database replace the old system? | On the fifteenth of April | On the first of April | On the eighth of April | On the twenty-first of June | A | It will replace the old system on the fifteenth of April.
+Q Why is the training compulsory? | The director asked for it | It is a legal rule | The old system will not be available after the fifteenth | The training is very short | C | Attendance is compulsory, because the old system will no longer be available.
+Q Where should staff gather during the fire drill? | On the street | In the car park | In the meeting room | At the lake | B | Gather in the car park, not on the street.
+Q What will staff pay for at the company party? | The food | The restaurant | Their partners' invitations | Drinks after eight o'clock | D | Drinks after eight o'clock will be at your own expense.

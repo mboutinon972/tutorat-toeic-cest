@@ -1,0 +1,45 @@
+AUDIO Préparer la réunion de lundi | S1=af_heart,S2=am_adam | 0.85
+S1: Hello, Mark. Do you have a minute?
+S2: Yes, Sara. What can I do for you?
+S1: I need a meeting room for Monday. Can I book Room 3?
+S2: Let me look. Monday morning, Room 3 is not free. It is free in the afternoon, at two o'clock.
+S1: Two o'clock is fine. We are six people, not five. Is Room 3 big?
+S2: Yes, it is big. It has ten chairs and one large table. There is also a projector.
+S1: Great. I also need coffee and tea for the team.
+S2: No problem. I call the café on the first floor. How many cups do you want?
+S1: Six coffees and two teas, please. And some water.
+S2: OK. The meeting is from two to four, right?
+S1: Yes, from two to four. Then we have a short break at three.
+S2: Good. Who comes to the meeting?
+S1: Anna and Tom from sales, two people from marketing, and my manager, Mr. Brown.
+S2: Is Mr. Brown free on Monday? I think he is in London on Monday.
+S1: Oh, you are right. He comes back on Tuesday. So, can we have the meeting on Tuesday?
+S2: Tuesday at two o'clock, Room 3 is free. I put your name in the book.
+S1: Perfect. Thank you very much, Mark. Please send me an email with the room number.
+S2: Of course. I send it this afternoon. See you on Tuesday!
+QQ What does Sara need? | A meeting room | A new laptop | A day off | A coffee machine | Can I book Room 3 ? Elle veut réserver une salle de réunion.
+QQ Why can't Sara have Room 3 on Monday morning? | The room is not free | The room is too small | The projector is broken | Mark is away | Room 3 is not free on Monday morning : elle est occupée.
+QQ How many people are in Sara's team? | Six | Five | Ten | Two | We are six people, not five : six personnes.
+QQ What is in Room 3? | A table, ten chairs and a projector | Two computers and a phone | A kitchen and a sofa | Only a large table | Ten chairs, one large table et un projecteur.
+QQ Where is the café? | On the first floor | On the second floor | Next to Room 3 | Near the station | The café on the first floor : au premier étage.
+QQ When is the break? | At three | At two | At four | At five | The meeting is from two to four, break at three : pause à 15 h.
+QQ Why does the meeting change to Tuesday? | Mr. Brown is in London on Monday | Room 3 is broken | Anna is ill | Mark is on holiday | Mr. Brown est à Londres lundi et revient mardi.
+QQ What does Mark do this afternoon? | He sends an email with the room number | He calls Mr. Brown | He buys the coffee | He books a hotel | I send it this afternoon : il envoie un email avec le numéro de salle.
+AUDIO Annonce dans un magasin | N=bf_emma | 0.85
+N: Good morning, everyone, and welcome to Green Market. Please listen to today's special offers.
+N: First, fruit and vegetables. Apples are two dollars a kilo. Bananas are one dollar fifty a kilo. Tomatoes are three dollars a kilo, but only until noon.
+N: Now, the bakery. Bread is half price until twelve o'clock. A big chocolate cake is ten dollars. Please come to the bakery. It is next to the door.
+N: In the drinks section, orange juice is two dollars a bottle. Buy three bottles and you get one free. Coffee and tea are on the second shelf.
+N: Customers with children, please note: there is a play room on the first floor. It is open from ten until five. It is free.
+N: The store opens at eight o'clock and closes at nine o'clock every day, except Sunday. On Sunday we close at six.
+N: You can pay by card or in cash. Please pay at the desk near the door. If you have a question, ask a person in a green shirt. They are happy to help you.
+N: Today is Friday. Tomorrow, Saturday, a famous chef is in our store at three o'clock. He makes a pizza with tomatoes from our shop. Everyone can taste it!
+N: Thank you for shopping at Green Market, and have a nice day.
+QQ Where is the announcement? | In a store | In a school | At a hospital | At an airport | Welcome to Green Market, pay at the desk : c'est un magasin.
+QQ How much are apples? | Two dollars a kilo | One dollar fifty a kilo | Three dollars a kilo | Ten dollars a kilo | Apples are two dollars a kilo.
+QQ Until when are tomatoes three dollars a kilo? | Until noon | Until five o'clock | Until eight o'clock | All day | Tomatoes are three dollars, but only until noon.
+QQ Where is the bakery? | Next to the door | On the first floor | Near the drinks | Behind the desk | The bakery is next to the door.
+QQ What happens if you buy three bottles of orange juice? | You get one free | You pay half price | You get a cake | You get coffee | Buy three bottles and you get one free.
+QQ What is on the first floor for children? | A play room | A café | A bakery | A school | There is a play room on the first floor, free de 10 h à 17 h.
+QQ When does the store close on Sunday? | At six | At eight | At nine | At five | On Sunday we close at six.
+QQ What happens tomorrow at three o'clock? | A famous chef makes a pizza | The store is closed | There is free coffee | There is a party for children | Tomorrow, Saturday, a famous chef is in our store at three o'clock.

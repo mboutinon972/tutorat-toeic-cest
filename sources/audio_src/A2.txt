@@ -1,0 +1,45 @@
+AUDIO Changer un rendez-vous | S1=bf_emma,S2=am_michael | 0.9
+S1: Good morning, Delta Print, Julia speaking. How can I help you?
+S2: Hello, Julia. This is Peter Novak from Harbor Design. I have an appointment with Ms. Reyes next Wednesday at ten, but I need to change it.
+S1: Of course, Mr. Novak. Can I ask why? Is there a problem?
+S2: Yes, a small one. My flight from Berlin is cancelled, so I arrive on Tuesday evening, and I am very tired the next morning. Could we meet in the afternoon?
+S1: Let me check Ms. Reyes's calendar. She is free on Wednesday after lunch, at two thirty. But she has another meeting at four.
+S2: That is fine. Two thirty is perfect. Our meeting is about one hour, I think.
+S1: One hour is no problem. Do you need a room with a projector? You told us last time that you have a presentation.
+S2: Yes, please. I also want to show some samples of our new catalogue. Is there a table in the room?
+S1: Yes, Room 5 has a big table and a projector. I book it for you now.
+S2: Thank you. One more thing. Could you recommend a hotel near your office? My company pays up to one hundred and twenty euros a night.
+S1: There is the Park Hotel, five minutes on foot from here. A single room costs one hundred and ten euros with breakfast. There is also the Central Inn, but it is more expensive, about one hundred and sixty.
+S2: The Park Hotel sounds good. Is there parking? I plan to rent a car at the airport.
+S1: Yes, but you have to pay. It is ten euros a day. Or you can take the train. The station is only two stops from the airport.
+S2: I think I take the train. It is cheaper and faster in the morning.
+S1: Good idea. So, I confirm: Wednesday at two thirty with Ms. Reyes, in Room 5. I send you an email with the address and the map.
+S2: Great. My email is p dot novak at harbordesign dot example.
+S1: Perfect, Mr. Novak. Have a safe trip, and see you next week.
+S2: Thank you very much. Goodbye, Julia.
+QQ Why does Mr. Novak call? | To change an appointment | To book a flight | To order some printing | To complain about a hotel | I need to change it : il veut changer son rendez-vous.
+QQ What is the problem? | His flight is cancelled | He is ill | Ms. Reyes is away | The room is too small | My flight from Berlin is cancelled : il arrive mardi soir.
+QQ What is the new time of the meeting? | Two thirty | Ten o'clock | Four o'clock | One thirty | She is free on Wednesday at two thirty.
+QQ What does Mr. Novak need in the room? | A projector and a table | A phone and a camera | A kitchen | Only chairs | Room 5 has a big table and a projector.
+QQ How much is a single room at the Park Hotel? | One hundred and ten euros with breakfast | One hundred and twenty euros | One hundred and sixty euros | Ten euros | A single room costs 110 euros with breakfast.
+QQ Why is the Central Inn a problem for Mr. Novak? | It costs more than his company pays | It is too far from the office | It has no breakfast | It is closed next week | Environ 160 euros, mais son entreprise paie jusqu'à 120 euros.
+QQ How will Mr. Novak travel from the airport? | By train | By rental car | By taxi | By bus | I think I take the train : moins cher et plus rapide.
+QQ What will Julia send by email? | The address and a map | The invoice | The catalogue | A flight ticket | I send you an email with the address and the map.
+AUDIO Annonces à l'aéroport | N=af_bella | 0.9
+N: Good afternoon, ladies and gentlemen, and welcome to Lakeside International Airport. This is an important information message.
+N: First, a change of gate. Flight BA 412 to Madrid now leaves from gate 22, not gate 14. Please go to gate 22 as soon as possible. Boarding starts at four fifteen, and the plane leaves at four forty-five.
+N: Flight LH 908 to Frankfurt is delayed because of heavy fog this morning. The new departure time is six ten, one hour and twenty minutes later than planned. Passengers can receive a free sandwich and a drink. Please show your boarding pass at the Sky Café on the second floor.
+N: Passengers for flight AF 77 to Paris, we are now boarding at gate 8. Please have your passport and boarding pass ready. Families with small children can board first.
+N: A reminder about luggage. Cabin bags must not be heavier than eight kilos. Big suitcases must go to the check-in desks, which are open until two hours before the flight. Please do not leave your bags alone. Unattended bags are removed by security.
+N: Now some news about our services. The new shuttle bus to the city centre leaves every twenty minutes from exit B. A ticket costs six dollars, and children under twelve travel free. The train station will reopen next Monday after repairs. The train takes only twelve minutes to the centre.
+N: If you have time before your flight, visit our duty-free shop on the first floor. This week, perfume and chocolate are twenty percent cheaper. The shop is open from six in the morning until ten at night. Free wifi is available in the whole airport. The password is written on the screens.
+N: Finally, a message for Mr. David Collins. Mr. Collins, your wallet is at the information desk next to the main entrance.
+N: Thank you for flying with Lakeside. We wish you a pleasant journey.
+QQ Which gate does flight BA 412 now use? | Gate 22 | Gate 14 | Gate 8 | Gate 12 | BA 412 now leaves from gate 22, not gate 14.
+QQ Why is flight LH 908 delayed? | Because of fog | Because of an engine problem | Because of a strike | Because of snow | Delayed because of heavy fog.
+QQ What is the new departure time of LH 908? | Six ten | Four forty-five | Four fifteen | Seven thirty | The new departure time is six ten.
+QQ What can delayed passengers get at the Sky Café? | A free sandwich and a drink | A hotel room | A new ticket | A taxi | A free sandwich and a drink, avec la carte d'embarquement.
+QQ What is the maximum weight for cabin bags? | Eight kilos | Ten kilos | Eighteen kilos | Twenty kilos | Cabin bags must not be heavier than eight kilos.
+QQ How often does the shuttle bus leave? | Every twenty minutes | Every ten minutes | Every hour | Every thirty minutes | The shuttle bus leaves every twenty minutes from exit B.
+QQ Who travels free on the shuttle bus? | Children under twelve | Students | People over sixty | Everyone with a boarding pass | Children under twelve travel free.
+QQ Where is Mr. Collins's wallet? | At the information desk | At the Sky Café | At gate 8 | In the duty-free shop | Your wallet is at the information desk next to the main entrance.
